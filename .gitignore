@@ -1,0 +1,8 @@
+src/in_process
+src/unix_server
+src/unix_client
+src/tcp_server
+src/tcp_client
+src/schema.pb.h
+src/schema.pb.cc
+*.o
